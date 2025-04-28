@@ -12,4 +12,7 @@ Driver code for the arduino in the Chem-E-Car
   -  make sure arduino:avr is installed (run `$ arduino-cli core install arduino:avr`)  
   - run `$ make upload` to upload or `$ make compile` to compile
 - Using arduino ide
-  - Open `sketch` folder with arduino ide and click upload 
+ - Open `sketch` folder with arduino ide and click upload 
+
+# TODO
+- possibly setup ci/cd using wokwi-cli (https://docs.wokwi.com/wokwi-ci/getting-started)
