@@ -1,7 +1,6 @@
 BOARD_FQBN=arduino:avr:nano
 PORT=/dev/tty/ACM0
 
-
 .PHONY: compile upload
 
 compile:
