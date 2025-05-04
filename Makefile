@@ -1,5 +1,5 @@
-BOARD_FQBN=arduino:avr:nano
-PORT=/dev/tty/ACM0
+BOARD_FQBN=arduino:avr:uno
+PORT=/dev/ttyACM0
 
 .PHONY: compile upload
 
